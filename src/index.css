@@ -10,3 +10,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.Buttons {
+  border-radius: 50%;
+  justify-content: space-between;
+  color: white;
+  background-color: rgba(11, 104, 190, 0.867) ;
+  box-shadow: 1px 2px black;
+  margin:10px;
+  width:15%;
+  height:70px;
+  font-size:2rem;
+  border-color: rgba(11, 104, 190, 0.867);
+ 
+}
+
+.Operators{
+  border-radius: 50%;
+  justify-content: space-between;
+  color: white;
+  background-color: rgba(16, 157, 175, 0.867); ;
+  box-shadow: 1px 2px black;
+  margin:10px;
+  width:15%;
+  height:70px;
+  font-size:2rem;
+  border-color: rgba(16, 157, 175, 0.867);
+ 
+}
+
+.Numbers{
+  border-radius: 50%;
+  justify-content: space-between;
+  color: white;
+  background-color: rgba(23, 81, 189, 0.867); ;
+  box-shadow: 1px 2px black;
+  margin:10px;
+  width:15%;
+  height:70px;
+  font-size:2rem;
+  border-color: rgba(16, 157, 175, 0.867);
+ 
+}
